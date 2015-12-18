@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"nav",
+				"navButtonGroup"
+			],
+			[
+				"togg",
+				"toggleMenu"
+			],
+			[
+				"toggleM",
+				"toggleMenuVisibility"
+			],
+			[
+				"get",
+				"getElementByClassName"
+			],
+			[
+				"ex",
+				"ex-3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<widget id=\"com.ionicframework.shoppingassistant217437\" version=\"0.0.1\" xmlns=\"http://www.w3.org/ns/widgets\" xmlns:cdv=\"http://cordova.apache.org/ns/1.0\">\n  <name>ShoppingAssistant</name>\n  <description>\n        An Ionic Framework and Cordova project.\n    </description>\n  <author email=\"yuan0037@algonquinlive.com\" href=\"http://www.algonquincollege.com/\">\n      Your Name Here\n    </author>\n  <content src=\"index.html\"/>\n  <access origin=\"*\"/>\n  <preference name=\"webviewbounce\" value=\"false\"/>\n  <preference name=\"UIWebViewBounce\" value=\"false\"/>\n  <preference name=\"DisallowOverscroll\" value=\"true\"/>\n  <preference name=\"android-minSdkVersion\" value=\"16\"/>\n  <preference name=\"BackupWebStorage\" value=\"none\"/>\n  <feature name=\"StatusBar\">\n    <param name=\"ios-package\" value=\"CDVStatusBar\" onload=\"true\"/>\n  </feature>\n</widget>",
+			"file": "config.xml",
+			"file_size": 867,
+			"file_write_time": 130940047540000000,
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/boyuan/Documents/MADD/mad 9135/ShoppingAssistant"
+	],
+	"file_history":
+	[
+		"/Users/boyuan/Documents/MADD/mad 9135/Bower_Grunt/index.html",
+		"/Users/boyuan/Documents/MADD/mad 9135/grunt/multiview/Gruntfile.js",
+		"/Users/boyuan/Documents/MADD/mad 9135/Bower_Grunt/package.json",
+		"/Users/boyuan/Documents/MADD/mad 9135/Bower_Grunt/bower.json",
+		"/Users/boyuan/Documents/MADD/mad 9135/Bower_Grunt/Gruntfile.js",
+		"/Applications/MAMP/htdocs/mad9135/logMeIn/www/js/app.js",
+		"/Users/boyuan/Downloads/Gruntfile.js",
+		"/Applications/MAMP/htdocs/mad9135/spa/app.js",
+		"/Users/boyuan/Documents/MADD/mad 9135/todo/index.html",
+		"/Users/boyuan/Documents/MADD/mad 9135/todo/js/app.js",
+		"/Applications/MAMP/htdocs/mad9135/todo 2/index.html",
+		"/Applications/MAMP/htdocs/mad9022/final/css/main.css",
+		"/Applications/MAMP/htdocs/mad9022/final/js/main.js",
+		"/Applications/MAMP/htdocs/mad9022/giftr/www/js/main.js",
+		"/Applications/MAMP/htdocs/mad9022/ajax/delete.php",
+		"/Applications/MAMP/htdocs/mad9022/ajax/list.php",
+		"/Applications/MAMP/htdocs/mad9022/ajax/get.php",
+		"/Applications/MAMP/htdocs/mad9022/giftr/www/css/index.css",
+		"/Applications/MAMP/htdocs/mad9014/weather/index.html",
+		"/Applications/MAMP/htdocs/mad9014/weather/js/mywidget.js",
+		"/Applications/MAMP/htdocs/mad9014/weather/css/main.css",
+		"/Users/boyuan/Documents/MADD/mad 9014/mad9014-ex3/index.html",
+		"/Applications/MAMP/htdocs/mad9135/todo/index.html",
+		"/Applications/MAMP/htdocs/mad9135/spa/contact-us.html",
+		"/Applications/MAMP/htdocs/mad9135/spa/home.html",
+		"/Applications/MAMP/htdocs/mad9022/test/index.html",
+		"/Applications/MAMP/htdocs/mad9022/test/js/main.js",
+		"/Applications/MAMP/htdocs/mad9022/ajax/save.php",
+		"/Applications/MAMP/htdocs/mad9022/giftr/www/index.html",
+		"/Applications/MAMP/htdocs/mad9022/index.html",
+		"/Applications/MAMP/htdocs/mad9022/midterm/index.html",
+		"/Users/boyuan/Documents/nodejs/ChatApp/app.js",
+		"/Users/boyuan/Documents/nodejs/ChatApp/Assets/script.js",
+		"/Users/boyuan/Documents/nodejs/ChatApp/package.json",
+		"/Users/boyuan/Documents/nodejs/express_sample/SimpleExpress/app.js",
+		"/Users/boyuan/Documents/nodejs/express_sample/SimpleExpress/package.json",
+		"/Applications/MAMP/htdocs/mad9022/giftr/www/js/index.js",
+		"/Users/boyuan/Downloads/ios-sql-gh-pages/js/app.js",
+		"/Applications/MAMP/htdocs/mad9022/midterm/js/mainscript.js",
+		"/Applications/MAMP/htdocs/mad9022/midterm/js/index.js",
+		"/Users/boyuan/Downloads/players.sql",
+		"/Users/boyuan/Downloads/players 2.sql",
+		"/Applications/MAMP/htdocs/mad9023/midterm/index.php",
+		"/Applications/MAMP/htdocs/mad9023/assignment4/index.php",
+		"/Users/boyuan/Documents/mad 9022/webapp1/www/js/index.js",
+		"/Users/boyuan/Documents/mad 9022/9022midterm/www/js/mainscript.js",
+		"/Users/boyuan/Documents/mad 9022/webapp1/www/js/mainscript.js",
+		"/Users/boyuan/Documents/mad 9022/webapp1/www/index.html",
+		"/Users/boyuan/Documents/mad 9022/canvas-chart/index.html",
+		"/Applications/MAMP/htdocs/mad9013/bootstrap/locations.html",
+		"/Users/boyuan/Downloads/assignment3 3.sql",
+		"/Applications/MAMP/htdocs/mad9022/webapp1/img/contact.svg",
+		"/Applications/MAMP/htdocs/mad9023/Assignment1/index.php",
+		"/Applications/MAMP/htdocs/mad9022/video/js/main.js",
+		"/Users/boyuan/Documents/mad 9013/mad9013-ex2/index.html",
+		"/Users/boyuan/Downloads/open-iconic-master/svg/home.svg",
+		"/Users/boyuan/Documents/mad 9023/assignment3.txt",
+		"/Users/boyuan/Downloads/cheese(1).json",
+		"/Users/boyuan/Downloads/MAD9024_Assignment1 2/index.php",
+		"/Users/boyuan/Downloads/index 2.php",
+		"/Applications/MAMP/htdocs/mad9022/canvas-chart/json/cheese.json",
+		"/Applications/MAMP/htdocs/mad9013/midterm/index.html",
+		"/Applications/MAMP/htdocs/mad9013/midterm/css/midterm.css",
+		"/Users/boyuan/Downloads/jqm-intro/index.html",
+		"/Applications/MAMP/htdocs/mad9013/sass-demo/main.scss",
+		"/Applications/MAMP/htdocs/mad9013/travel/css/form.css",
+		"/Applications/MAMP/htdocs/mad9014/jqm/js/main.js",
+		"/Users/boyuan/Documents/mad 9111/chat/PHPWebSocket-Chat/server.php",
+		"/Users/boyuan/Documents/mad 9111/chat/PHPWebSocket-Chat/class.PHPWebSocket.php",
+		"/Users/boyuan/Documents/mad 9111/chat/PHPWebSocket-Chat/index.html",
+		"/Users/boyuan/Documents/mad 9014/weather/js/mywidget.js",
+		"/Users/boyuan/Documents/mad 9013/sass/main.scss",
+		"/Applications/MAMP/htdocs/mad9014/midterm/js/data.js",
+		"/Applications/MAMP/htdocs/mad9014/midterm/css/main.css",
+		"/Applications/MAMP/htdocs/mad9014/midterm/js/main.js",
+		"/Applications/MAMP/htdocs/mad9014/midterm/index.html",
+		"/Applications/MAMP/htdocs/mad9013/float2/columns.html",
+		"/Applications/MAMP/htdocs/mad9013/float2/css/columns.css",
+		"/Users/boyuan/Downloads/moon-assign 2/css/moon.css",
+		"/Applications/MAMP/htdocs/mad9014/moon-assignment/css/moon.css",
+		"/Applications/MAMP/htdocs/mad9014/moon-assignment/index.html",
+		"/Users/boyuan/Documents/testcss/test.css",
+		"/Users/boyuan/Documents/testcss/index.html",
+		"/Applications/MAMP/htdocs/mad9014/mad9014-done/css/main.css",
+		"/Users/boyuan/Documents/mad9014-assign-1/html-manipulation/index.html",
+		"/Users/boyuan/Documents/mad9014-assign-1/html-manipulation/js/manipulation.js",
+		"/Users/boyuan/Documents/mad9014-ex3/index.html",
+		"/Users/boyuan/Documents/mad9014-ex3/js/ex-3.js",
+		"/Users/boyuan/Documents/mad9013-ex1/index.html",
+		"/Users/boyuan/Documents/mad9013-ex2/index.html",
+		"/Users/boyuan/Documents/mad9013-ex2/css/main.css",
+		"/Users/boyuan/Documents/mad9013-ex2/main.css",
+		"/Users/boyuan/Documents/myowntest-0911/margin_test.html",
+		"/Users/boyuan/Documents/myowntest-0911/css/margin_test.css",
+		"/Users/boyuan/Documents/mad9013-ex3/js/ex-3.js",
+		"/Users/boyuan/Documents/mad9013-ex3/index.html",
+		"/Users/boyuan/Documents/mad9013-ex3/css/ex-3.css",
+		"/Users/boyuan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doLogin",
+			"login",
+			"cordova",
+			"bower",
+			"button",
+			"btncan",
+			"btn",
+			"modal",
+			"modu",
+			"document.create",
+			"li",
+			"\\",
+			"/",
+			"\\",
+			"\"id\"",
+			"hammer",
+			"home",
+			"one",
+			"forea",
+			"makemapa",
+			"makemap",
+			"makeMapArray",
+			"expre",
+			"express",
+			"dbconf",
+			"gmap",
+			"hammer",
+			"session",
+			"68a068",
+			"moveExistingDataToSide",
+			"overflow",
+			"ul",
+			"400",
+			"non",
+			"main",
+			"li",
+			"ul",
+			"main",
+			"rem",
+			"style",
+			"title",
+			"ol",
+			"time",
+			"a href",
+			"mark",
+			"img",
+			"menu-tog",
+			"mainnav",
+			"block",
+			"display:none"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ShoppingAssistant.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

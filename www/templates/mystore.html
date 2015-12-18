@@ -1,0 +1,30 @@
+<ion-view view-title="My Store">
+    <ion-content>
+        <h1>My Store</h1>
+        <div class="list">
+            <label class="item item-input">
+                <input type="text" placeholder="City Name" ng-model="search">
+            </label>
+            <button class="button button-positive" ng-click="doSearch()" ng-disabled="search.length===0">
+                Find Stores by City
+            </button>
+            <button class="button button-positive" ng-click="getNearestStore()">
+                Nearest Stores
+            </button>
+        </div>
+        <div class="card" ng-repeat="store in stores">
+            <div class="item item-text-wrap">
+                <h1>{{store.longName}} </h1>
+            </div>
+            <div class="item item-text-wrap">
+                Phone #: {{store.phone}}
+            </div>
+            <div class="item item-text-wrap">
+                {{store.address}} {{store.city}} {{store.region}} {{store.fullPostalCode}}
+            </div>
+            <div class="item item-text-wrap">
+                {{store.hoursAmPm}}
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

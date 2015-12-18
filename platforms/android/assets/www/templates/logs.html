@@ -1,0 +1,9 @@
+<ion-view view-title="Logs">
+    <ion-content>
+        <ion-list>
+            <ion-item ng-repeat="log in logs| orderBy:'+':true">
+                <b>Timestamp (GMT):</b> {{log.timestamp}} -- <b>User:</b> {{log.user}} -- <b>Details:</b> {{log.detail_info}}
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

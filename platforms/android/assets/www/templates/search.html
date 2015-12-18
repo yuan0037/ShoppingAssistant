@@ -1,0 +1,21 @@
+<ion-view view-title="Search">
+    <ion-content>
+        <div class="list">
+            <label class="item item-input">
+                <input type="text" placeholder="Product Name" ng-model="search">
+            </label>
+            
+            <button class="button button-positive" ng-click="doSearch()">
+                Find Products on Bestbuy.com
+            </button>
+
+        </div>
+        <div>{{searchHint}}</div>
+        <ion-slide-box>
+            <ion-slide ng-repeat="product in products">
+                {{product.name}} {{product.salePrice| currency}} SKU: {{product.sku}}
+                <img ng-src="{{product.image}}" style="margin:auto;display:block">
+            </ion-slide>
+        </ion-slide-box>
+    </ion-content>
+</ion-view>

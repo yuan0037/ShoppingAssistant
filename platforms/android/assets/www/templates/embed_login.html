@@ -1,0 +1,38 @@
+<ion-view view-title="Sign-In" >
+    <ion-content ng-hide="isLoggedIn()">
+        <div class="list">
+            <label class="item item-input">
+                <span class="input-label">Username</span>
+                <input type="text" ng-model="loginData.username">
+            </label>
+            <label class="item item-input">
+                <span class="input-label">Password</span>
+                <input type="password" ng-model="loginData.password">
+            </label>
+        </div>
+        <div class="padding">
+            <button class="button button-block button-positive" ng-click="doLogin(loginData)">
+                Sign-In Using Your User/Password
+            </button>
+            <button class="button button-block button-positive" ng-click="loginSocial('facebook')">
+                Sign-In Using Facebook Account
+            </button>
+        </div>
+    </ion-content>
+    <ion-content ng-show="isLoggedIn()">
+        <div class="row ">
+            <div class="col text-center ">
+                <h1>Welcome {{userDisplayed}} </h1>
+                <h3>Thank you for choosing the Shopping Assistant App!</h3>
+                <div id="logo ">
+                    <img src="http://code.ionicframework.com/assets/img/app_icon.png ">
+                </div>
+                <p>
+                    We've worked super hard to make you happy.
+                </p>
+                <p>
+                    But if you are angry, too bad, ...
+                </p>
+            </div>
+    </ion-content>
+</ion-view>
